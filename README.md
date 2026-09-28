@@ -38,7 +38,7 @@
   <img height=200 align="center" src="https://github-stats-azure-eight.vercel.app/api?username=zcalz&rank_icon=github&show_icons=true&theme=highcontrast" />
 </a>
 <a href="https://github.com/zcalz">
-  <img height=200 align="center" src="https://github-stats-azure-eight.vercel.app/api/top-langs?username=zcalz&layout=compact&langs_count=8&card_width=320&theme=dark&hide=html,dockerfile,javascript,shell" />
+  <img height=200 align="center" src="https://github-stats-azure-eight.vercel.app/api/top-langs?username=zcalz&layout=compact&langs_count=8&card_width=320&theme=dark&hide=html,css,dockerfile,javascript,shell" />
 </a>
 
 <picture>
