@@ -35,10 +35,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=zcalz&theme=dark&background=344%2C000000%2C2F1137&border=FFBE3A&ring=FFBE3A&currStreakLabel=FFBE3A&fire=FFBE3A)](https://git.io/streak-stats)
 
 <a href="https://github.com/zcalz">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zcalz&rank_icon=github&show_icons=true&theme=highcontrast&cache_seconds=1800" />
+  <img height=200 align="center" src="https://github-stats-azure-eight.vercel.app/api?username=zcalz&rank_icon=github&show_icons=true&theme=highcontrast" />
 </a>
 <a href="https://github.com/zcalz">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zcalz&layout=compact&langs_count=8&card_width=320&theme=dark&hide=html&cache_seconds=1800" />
+  <img height=200 align="center" src="https://github-stats-azure-eight.vercel.app/api/top-langs?username=zcalz&layout=compact&langs_count=8&card_width=320&theme=dark&hide=html" />
 </a>
 
 <picture>
